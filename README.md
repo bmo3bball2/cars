@@ -1,2 +1,4 @@
 # angular_cars
-Initial Angular app
+<b>First Angular App</b>
+<p>
+This is a test for more information.
