@@ -1,4 +1,4 @@
-# angular_cars
+# cars
 <b>First Angular App</b>
 <p>
-This is a test for more information.
+CRUD with Angular 12 frontend and php backend.
